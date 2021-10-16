@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "TELEVIZYON",
+        "pic": "resimler/hom3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BILGISAYAR",
+        "pic": "resimler/hom3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "FLASH BELLEK",
+        "pic": "resimler/hom3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "MÖNİTÖR",
+        "pic": "resimler/hom3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "CEP TELEFONLAR",
+        "pic": "resimler/hom3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "FOTO & KAMERA",
+        "pic": "resimler/hom3.jpg"
+    },
+    {
+        "id": 7,
+        "name": "KLIMALAR",
+        "pic": "resimler/hom3.jpg"
+    }
+   
+   
+   
+]
