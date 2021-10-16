@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "isim": " SAMSUNG",
+        "model": " S1022-300",
+        "marka": " APPLE",
+        "modelPrice": " 2550 TL",
+        "modelDetails": " Lorem Ipsum is simply dummy text of printing industry."
+    },
+    {
+        "id": 2,
+        "isim": "LG",
+        "model": " S1022-300",
+        "marka": " APPLE",
+        "modelPrice": " 2550 TL",
+        "modelDetails": " Lorem Ipsum is simply dummy text of printing industry."
+    },
+    {
+        "id": 3,
+        "isim": " APPLE",
+        "model": " S1022-300",
+        "marka": " APPLE",
+        "modelPrice": " 2550 TL",
+        "modelDetails": " Lorem Ipsum is simply dummy text of printing industry."
+    },
+
+    {
+        "id": 4,
+        "isim": " BEKO",
+        "model": " S1022-300",
+        "marka": " APPLE",
+        "modelPrice": " 2550 TL",
+        "modelDetails": " Lorem Ipsum is simply dummy text of printing industry."
+    },
+
+    {
+        "id": 5,
+        "isim": " NIKON",
+        "model": " S1022-300",
+        "marka": " APPLE",
+        "modelPrice": " 2550 TL",
+        "modelDetails": " Lorem Ipsum is simply dummy text of printing industry."
+    }
+]
